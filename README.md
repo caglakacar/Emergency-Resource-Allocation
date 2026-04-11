@@ -171,7 +171,7 @@ Key Result:
 ### Runtime Performance Comparison
 
 <p align="center">
-  <img src="static/screenshots/runtime.png" width="800"/>
+  <img src="static/screenshots/runtime.png" width="700"/>
 </p>
 
 <p align="center">
@@ -182,7 +182,7 @@ Key Result:
 ### Resource Allocation Visualization
 
 <p align="center">
-  <img src="static/screenshots/allocation.png" width="800"/>
+  <img src="static/screenshots/allocation.png" width="700"/>
 </p>
 
 <p align="center">
